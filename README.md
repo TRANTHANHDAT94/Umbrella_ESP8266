@@ -1,5 +1,7 @@
 # Umbrella_Javis
-### Copy the 'NodeMCU-and-RFID-RC522-IoT-Projects' to './.bitnami/stackman/machines/xampp/volumes/root/htdocs/'
+### Push Webdesign to XAMPP
+1. Copy the 'NodeMCU-and-RFID-RC522-IoT-Projects' to './.bitnami/stackman/machines/xampp/volumes/root/htdocs/'
+2. Run Database using SQL or MySQL with openning the directory using MOUNT
 
 ### Terminal command at debian XAMPP Terminal: 
 1. Update debiand using: apt update
